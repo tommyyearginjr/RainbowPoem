@@ -1,0 +1,4 @@
+red
+green
+blue
+These are some of the colors of the rainbow
