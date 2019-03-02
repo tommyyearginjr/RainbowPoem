@@ -3,6 +3,7 @@ the rainbow and the unicorn
 red
 orange
 green
+fucia
 yellow
 blue
 These are some of the colors of the rainbow
